@@ -92,6 +92,12 @@ nav a:hover{
     background-color: transparent;
     font-weight: bold;
     cursor: pointer;
+    transition: 0.5s;
+}
+
+.txt-down button:hover{
+    color: black;
+    background-color: white;
 }
 
 .ips{
